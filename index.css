@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+}
+body { 
+    background-color: papayawhip; 
+    margin: 0 auto;
+}
+img {
+  max-width: 100vh;
+  background-color: papayawhip; 
+  margin: 0 auto;
+}
