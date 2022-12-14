@@ -1,5 +1,4 @@
 html {
-  height: 100%;
 }
 body { 
     background-color: papayawhip; 
@@ -7,6 +6,4 @@ body {
 }
 img {
   max-width: 100vh;
-  background-color: papayawhip; 
-  margin: 0 auto;
 }
