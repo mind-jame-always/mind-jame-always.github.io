@@ -85,7 +85,7 @@
 	/* margin-right: 4px; */
 
 	float: left;
-	background-color: #997950;
+	background-color: rgb(247,147,133);
 	border-radius: 50%;
 }
 
@@ -99,7 +99,22 @@
 	/* margin-right: 4px; */
 
 	float: left;
-	background-color: #F8DE7E;
+	background-color: rgb(248,143,114);
+	border-radius: 50%;
+}
+    
+
+.circle3 {
+	width: 40px;
+	height: 40px;
+
+
+	display: block;
+	margin-left: 48%;
+	/* margin-right: 4px; */
+
+	float: left;
+	background-color: rgb(214,107,39);
 	border-radius: 50%;
 }
 
